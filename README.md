@@ -39,7 +39,7 @@ Based on this analysis i developed this **Static Deobfuscator** based on **Patte
 </p>
 
 
-# Installtion
+# Installation
 
 ```
 git clone https://github.com/0xilovebits/AuRAT-Deobfuscator
